@@ -1,0 +1,3 @@
+org/siwan/services/jwt/JwtUserFactory.class
+org/siwan/services/MemberService.class
+org/siwan/services/jwt/JwtUserDetailsServiceImpl.class

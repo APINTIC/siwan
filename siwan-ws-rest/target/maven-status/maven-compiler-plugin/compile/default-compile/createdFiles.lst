@@ -1,0 +1,5 @@
+org/siwan/SwanWebApplication.class
+org/siwan/rest/controller/MemberController.class
+org/siwan/rest/controller/admin/AdminRestController.class
+org/siwan/rest/controller/auth/AuthenticationRestController.class
+org/siwan/rest/controller/auth/UserRestController.class

@@ -1,0 +1,5 @@
+org/siwan/persistence/entity/User.class
+org/siwan/persistence/entity/Member.class
+org/siwan/persistence/entity/Authority.class
+org/siwan/persistence/repository/UserRepository.class
+org/siwan/persistence/repository/MemberRepository.class
